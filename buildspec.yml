@@ -1,0 +1,22 @@
+version: 0.1
+
+environment_variables:
+  plaintext:
+    AWS_DEFAULT_REGION: "ap-southeast-1"
+    HUGO_VERSION: "0.33"
+    HUGO_SHA256: "8e001bfde6bb11aee3c972e8f2fe20c7cce3c7f08148548a6a34a221454ad2ba"
+
+phases:
+  install:
+    commands:
+      - curl -Ls https://github.com/spf13/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz -o /tmp/hugo.tar.gz
+      - echo "${HUGO_SHA256}  /tmp/hugo.tar.gz" | sha256sum -c -
+      - tar xf /tmp/hugo.tar.gz -C /tmp
+      - mv /tmp/hugo /usr/bin/hugo
+      - rm -rf /tmp/hugo*
+  build:
+    commands:
+      - hugo
+  post_build:
+    commands:
+      - aws s3 sync --delete public s3://whiskingwell.com --cache-control max-age=3600
