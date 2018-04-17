@@ -9,11 +9,11 @@ weight = 0
 
 Diameter: 8" <br/>
 Height: 2" <br/>
-Price: SGD 105
+Price: SGD 138
 
 Diameter: 10" <br/>
 Height: 2"<br/>
-Price: SGD 125  
+Price: SGD 168  
 
 <a href="/#contact" class="btn btn-default">Order</a>
 
