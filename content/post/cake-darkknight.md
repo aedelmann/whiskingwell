@@ -14,7 +14,8 @@ Price: SGD 124
 Diameter: 10" <br/>
 Height: 4" <br/>
 Price: SGD 154     
-       
+
+
 <a href="/#contact" class="btn btn-default">Order</a>
 
 <img src="/images/darkknight_front.jpg" width="50%"/>
