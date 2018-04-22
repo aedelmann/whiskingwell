@@ -5,7 +5,7 @@
 		{{ range .Site.Params.portfolio.gallery }}
 		<article class="6u 12u$(xsmall) work-item">
 			<a href="{{ $.Site.BaseURL }}{{ .link }}" class="image fit thumb"><img src="{{ $.Site.BaseURL }}images/{{ .thumb }}" alt=""/></a>
-			<h3>{{ .title | markdownify }} {{ if eq .new true }}<span class="banner"><sup>NEW</sup></span>{{ end }}</h3>
+			<h3>{{ .title | markdownify }} <span class="banner"><sup>{{ .meta }}</sup></span></h3>
 			<p>{{ .description | markdownify }}</p>
 		</article>
 		{{ end }}
