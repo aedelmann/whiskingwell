@@ -3,16 +3,16 @@ showonlyimage = true
 draft = false
 image = "../images/superstar_front.jpg"
 date = ""
-title = "Superstar - Chocolate Cheesecake"
+title = "Superstar - Russischer Zupfkuchen"
 weight = 0
 +++
 
-Diameter: 8" <br/>
-Height: 2" <br/>
+Diameter: 8-inch <br/>
+Height: 2-inch <br/>
 Price: SGD 138
 
-Diameter: 10" <br/>
-Height: 2"<br/>
+Diameter: 10-inch <br/>
+Height: 2-inch<br/>
 Price: SGD 168  
 
 <a href="/#contact" class="btn btn-default">Order</a>

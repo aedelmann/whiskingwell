@@ -7,12 +7,12 @@ date = ""
 weight = 0
 +++
 
-Diameter: 8" <br/>
-Height: 4" <br/>
+Diameter: 8-inch <br/>
+Height: 4-inch <br/>
 Price: SGD 158
 
-Diameter: 10" <br/>
-Height: 4" <br/>
+Diameter: 10-inch <br/>
+Height: 4-inch <br/>
 Price: SGD 198     
 
 
