@@ -63,21 +63,21 @@ paginate = 10
 			image = "superstar_front.jpg"
 			thumb = "superstar_front.jpg"
 			title = "Superstar - Chocolate Cheesecake"
-			link  = "post/cake-superstar"
+			link  = "cakes/superstar"
 			description = "German classic chocolate crumble cheese cake, aka. Russischer Zupfkuchen."
 
 		[[params.portfolio.gallery]]
 			image = "darkknight_front.jpg"
 			thumb = "darkknight_front.jpg"
 			title = "Dark Knight - Chocolate Hazelnut"
-			link  = "post/cake-darkknight"
+			link  = "cakes/darkknight"
 			description = "Chocolate sponge cake with hazelnuts and coating of dark chocolate ganache."
 			
 		[[params.portfolio.gallery]]
 			image = "snowwhite_top.jpg"
 			thumb = "snowwhite_top.jpg"
 			title = "Snow White - German Donauwelle"
-			link  = "post/cake-snowwhite"
+			link  = "cakes/snowwhite"
 			new   = true
 			description = "Vanilla and chocolate swirl topped with cherries and vanilla cream finished with a dark chocolate icing"
 
