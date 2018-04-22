@@ -78,6 +78,7 @@ paginate = 10
 			thumb = "snowwhite_top.jpg"
 			title = "Snow White - German Donauwelle"
 			link  = "post/cake-snowwhite"
+			new   = true
 			description = "Vanilla and chocolate swirl topped with cherries and vanilla cream finished with a dark chocolate icing"
 
 
