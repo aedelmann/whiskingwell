@@ -2513,7 +2513,7 @@
 		}
 
 			#footer .icons a {
-				color: rgba(255, 255, 255, 0.4);
+				color: #ffffff;
 			}
 
 		#footer .copyright {
@@ -2928,7 +2928,7 @@
 
 			#footer {
 				background-attachment: scroll;
-				background-color: #1f1815;
+				background-color: #ffffff;
 				background-image: url("images/overlay.png"), url("../images/bg.jpg");
 				background-position: top left,						bottom center;
 				background-repeat: repeat,							no-repeat;
@@ -3130,7 +3130,7 @@
 		margin: .2em 0 .2em 0;
 	}
 
-	#sidebar {
+	#` {
 		margin-top: 1.5em;
 	}
 
@@ -3142,7 +3142,7 @@
 
 	#sidebar ul li a,
 	#sidebar ul li a a:visited {
-		color: #a2a2a2;
+		color: #ffffff;
 		text-decoration: none;
 	}
 
