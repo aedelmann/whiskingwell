@@ -38,7 +38,7 @@ paginate = 10
 		github = ""
 		gitlab = ""
 		dribbble = ""
-		facebook = ""
+		facebook = "https://www.facebook.com/WhiskingwellSG"
 		googleplus = ""
 		flickr = ""
 		linkedin = ""
@@ -51,8 +51,8 @@ paginate = 10
 	[params.about]
 		hide  = false
 		title = "We bake you happy with delicious, vegan cakes"
-		content = "Vegan simply means plant based food ingredients only. By default in all versions of our cakes, we do not use any form of animal products, egg, dairy product which includes milk, cheese, yoghurt and whey protein. Without all these ingredients, our cakes are 100% Cholesterol Free and as well as Gluten Free too."
-
+		content = "At Whiskingwell, we bring joy to people by creating egg-free, gluten-free, dairy-free and refined sugar-free German and classic cakes for you to indulge good quality cakes that taste equally sinful in your mouth and while being guilt-free for your body."
+		
 	[params.portfolio]
 		hide  = false
 		title = "Available cakes"
@@ -62,9 +62,9 @@ paginate = 10
 		[[params.portfolio.gallery]]
 			image = "superstar_front.jpg"
 			thumb = "superstar_front.jpg"
-			title = "Superstar - Chocolate Cheesecake"
+			title = "Superstar - German Classic Chocolate Cheese Cake"
 			link  = "cakes/superstar"
-			description = "German classic chocolate crumble cheese cake, aka. Russischer Zupfkuchen."
+			description = "Creamy, crumbly and low calorie chocolate soy cheesecake, aka. Russischer Zupfkuchen."
 
 		[[params.portfolio.gallery]]
 			image = "darkknight_front.jpg"
