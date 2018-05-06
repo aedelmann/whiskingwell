@@ -51,7 +51,7 @@ paginate = 10
 	[params.about]
 		hide  = false
 		title = "We bake you happy with delicious, vegan cakes"
-		content = "At Whiskingwell, we bring joy to people by creating egg-free, gluten-free, dairy-free and refined sugar-free German and classic cakes for you to indulge good quality cakes that taste equally sinful in your mouth and while being guilt-free for your body."
+		content = "At Whiskingwell, we bring joy to people by creating egg-free, gluten-free, dairy-free and refined sugar-free German and classic cakes for you to indulge good quality cakes that taste equally sinful in your mouth, while being guilt-free for your body."
 		
 	[params.portfolio]
 		hide  = false
