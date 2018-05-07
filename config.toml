@@ -62,7 +62,7 @@ paginate = 10
 		[[params.portfolio.gallery]]
 			image = "superstar_front.jpg"
 			thumb = "superstar_front.jpg"
-			title = "Superstar - German Classic Chocolate Cheese Cake"
+			title = "Superstar - Classic Chocolate Cheese Cake"
 			link  = "cakes/superstar"
 			description = "Creamy, crumbly and low calorie chocolate soy cheesecake, aka. Russischer Zupfkuchen."
 
@@ -71,6 +71,7 @@ paginate = 10
 			thumb = "darkknight_front.jpg"
 			title = "Dark Knight - Chocolate Hazelnut"
 			link  = "cakes/darkknight"
+			meta   = "Popular"
 			description = "Chocolate sponge cake with hazelnuts and coating of dark chocolate ganache."
 			
 		[[params.portfolio.gallery]]
@@ -78,8 +79,15 @@ paginate = 10
 			thumb = "snowwhite_top.jpg"
 			title = "Snow White - German Donauwelle"
 			link  = "cakes/snowwhite"
-			meta   = "NEW"
 			description = "Vanilla and chocolate swirl topped with cherries and vanilla cream finished with a dark chocolate icing"
+			
+		[[params.portfolio.gallery]]
+			image = "nutcracker_top.jpg"
+			thumb = "nutcracker_top.jpg"
+			title = "Nutcracker - Chocolate Hazelnut Tart"
+			link  = "cakes/nutcracker"
+			meta   = "NEW"
+			description = "If you are a fan of Nutella, this is the perfect treat for you. It is rich, creamy, nutty and chocolaty. A guarantee to go NUTZ."
 
 
 	[params.recentposts]

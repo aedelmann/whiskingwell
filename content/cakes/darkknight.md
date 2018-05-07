@@ -9,11 +9,11 @@ weight = 0
 
 Diameter: 8-inch <br/>
 Height: 4-inch <br/>
-Price: SGD 158
+Price: SGD 140
 
 Diameter: 10-inch <br/>
 Height: 4-inch <br/>
-Price: SGD 198     
+Price: SGD 170     
 
 
 <a href="/#contact" class="btn btn-default">Order</a>
