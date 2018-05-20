@@ -9,7 +9,7 @@ weight = 0
 
 Diameter: 9-inch <br/>
 Height: 1-inch <br/>
-Price: SGD 138     
+Price: SGD 118     
 
 
 <a href="/#contact" class="btn btn-default">Order</a>

@@ -9,7 +9,7 @@ weight = 0
 
 Diameter: 8-inch <br/>
 Height: 2-inch <br/>
-Price: SGD 118
+Price: SGD 108
 
 Diameter: 10-inch <br/>
 Height: 2-inch<br/>
